@@ -1,6 +1,9 @@
-# 다층 퍼셉트론 발표 자료
+<p align="center">
+  
+  # 다층 퍼셉트론 발표 자료
+  <img src="Resources/Thumbnail.png" alt="다층 퍼셉트론 — 신경망 구조, 활성화 함수, 역전파 발표 자료" width="100%"></p>
 
-<p align="center"><img src="Resources/Thumbnail.png" alt="다층 퍼셉트론 — 신경망 구조, 활성화 함수, 역전파 발표 자료" width="100%"></p>
+  </div>
 
 인공지능 입문 수업에서 다층 퍼셉트론(Multilayer Perceptron, MLP)을 조사해 발표한 자료입니다. 단층 퍼셉트론의 한계에서 출발해, 은닉층과 활성화 함수가 필요한 이유를 살펴보고 역전파를 이용한 학습 과정까지 정리했습니다.
 
