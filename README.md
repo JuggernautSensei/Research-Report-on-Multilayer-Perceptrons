@@ -2,7 +2,7 @@
 
 <p align="center">XOR 예제로 다층 퍼셉트론의 구조와 학습 과정을 설명한 발표 자료</p>
 
-![신경망 구조와 XOR 진리표, 활성화 함수 그래프를 모은 발표 자료 표지](Resources/Thumbnail.png)
+<p align="center"><img src="Resources/Thumbnail.png" alt="신경망 구조와 XOR 진리표, 활성화 함수 그래프를 모은 발표 자료 표지"></p>
 
 ## 목차
 
